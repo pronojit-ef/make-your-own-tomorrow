@@ -12,7 +12,7 @@ body{
 }
 
 .form_wrapper h1{
-	font:'Roboto Condensed', sans-serif bold 38px; 
+	font:bold 38px 'Roboto Condensed', sans-serif; 
 	text-align:center; 
 	color:#FFF; 
 	margin:0; 
